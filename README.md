@@ -1,4 +1,3 @@
-
 # 🐶 Dog Care App
 
 A comprehensive mobile application designed to help pet owners manage their dog's needs, including food, medicine, and educational content. This app provides an all-in-one solution for purchasing pet products, reading informative blogs, and managing orders.
@@ -11,7 +10,7 @@ A comprehensive mobile application designed to help pet owners manage their dog'
   - Sign Up / Login  
   - Profile management  
 
-- 🛒 **Shopping**  
+- 🛍 **Shopping**  
   - Browse product categories (food, medicine, etc.)  
   - Add to cart and checkout  
   - Remove products from the cart  
@@ -90,7 +89,7 @@ A comprehensive mobile application designed to help pet owners manage their dog'
 
 ---
 
-## 📖 Future Improvements
+## 📚 Future Improvements
 
 - Add online payment integration
 - Push notifications for order updates
@@ -107,8 +106,18 @@ International College of Business & Technology (ICBT)
 
 ---
 
-## 📅 Project Info
+## 🗓 Project Info
 
 **Module:** CSE5011 - Mobile Application Development  
 **Assessment Type:** Coursework  
 **Weight:** 100%  
+
+---
+
+## 📊 Repository Stats
+
+- **Views:** [Insert View Count]
+- **Languages Used:** Kotlin, Java, XML
+- **Database:** Firebase Realtime Database
+- **Backend Services:** Firebase Authentication, Firebase Storage
+
